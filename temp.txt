@@ -1,0 +1,14 @@
+{"id":4,"makeModel":"Honda Accord","year":2017,"retailPrice":25000.0}
+{"id":88,"makeModel":"Honda Accord","year":2017,"retailPrice":25000.0}
+{"id":9,"makeModel":"Honda Accord","year":2017,"retailPrice":25000.0}
+{"id":45,"makeModel":"Honda Accord","year":2017,"retailPrice":25000.0}
+{"id":38,"makeModel":"Honda Accord","year":2017,"retailPrice":25000.0}
+{"id":75,"makeModel":"Honda Accord","year":2017,"retailPrice":25000.0}
+{"id":1,"makeModel":"Honda Accord","year":2017,"retailPrice":25000.0}
+{"id":33,"makeModel":"Honda Accord","year":2017,"retailPrice":25000.0}
+{"id":71,"makeModel":"Honda Accord","year":2017,"retailPrice":25000.0}
+{"id":63,"makeModel":"Honda Accord","year":2017,"retailPrice":25000.0}
+{"id":93,"makeModel":"Honda Accord","year":2017,"retailPrice":25000.0}
+{"id":12,"makeModel":"Honda Accord","year":2017,"retailPrice":25000.0}
+{"id":98,"makeModel":"Honda Accord","year":2017,"retailPrice":25000.0}
+{"id":33,"makeModel":"Honda Accord","year":2017,"retailPrice":25000.0}
